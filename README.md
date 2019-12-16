@@ -6,6 +6,6 @@ I've tried to bring as much as possible to the Karabiner to make reconfiguration
 
 Navigate to 
 
-`karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/anacierdem/MacWinKeys/master/KarabinerElementsRule.json`
+`karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/VSilantyev/MacWinKeys/master/KarabinerElementsRule.json`
 
 on Safari to install on Karabiner-Elements.
