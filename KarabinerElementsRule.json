@@ -11,8 +11,7 @@
                                 "org\\.virtualbox\\.app\\.VirtualBoxVM",
                                 "com\\.teamviewer\\.TeamViewer",
                                 "com\\.microsoft\\.rdc\\.macos",
-                                "tv\\.liquidsky",
-                                "com\\.apple\\.Terminal",
+                                "tv\\.liquidsky"
                             ],
                             "type": "frontmost_application_if"
                         }
